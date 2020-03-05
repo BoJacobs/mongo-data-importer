@@ -29,15 +29,15 @@ The JSON files should define an array of objects. Example:
 ```javascript
 [
   {
-    "name": "recordName",
-    "anotherField": "anotherValue",
+    "name": "record1Name",
+    "anotherField": "anotherValue1",
     "nestedObject": {
       "nestedField:" : 1
     }
   },
   {
-    "name": "test2",
-    "anotherField": "anotherValue",
+    "name": "record2Name",
+    "anotherField": "anotherValue2",
     "arrayField": [
       "val1",
       "val2"
