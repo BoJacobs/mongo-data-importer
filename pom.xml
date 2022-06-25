@@ -31,7 +31,7 @@
     </scm>
 
     <properties>
-        <spring.data.mongodb.version>2.2.4.RELEASE</spring.data.mongodb.version>
+        <spring.data.mongodb.version>3.3.5</spring.data.mongodb.version>
         <json.simple.version>1.1.1</json.simple.version>
         <reflections.version>0.9.11</reflections.version>
     </properties>
